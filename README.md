@@ -35,4 +35,4 @@ Copyright © 2024 vinnycrm
 Thanks to the people and companies who donate money, services or time to keep the project running.
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinnycrm/) 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fvinnycrm)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https://x.com/vinnycrm)
