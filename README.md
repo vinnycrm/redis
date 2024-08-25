@@ -29,3 +29,9 @@ This setup provides a simple and isolated Redis environment, perfect for develop
 **The MIT License (MIT)**
 
 Copyright © 2024 vinnycrm
+
+# Community
+
+Thanks to the people and companies who donate money, services or time to keep the project running.
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/vinnycrm/redis)
