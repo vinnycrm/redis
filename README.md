@@ -30,8 +30,8 @@ This setup provides a simple and isolated Redis environment, perfect for develop
 
 Copyright © 2024 vinnycrm
 
-# Community
+## Community
 
 Thanks to the people and companies who donate money, services or time to keep the project running.
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/vinnycrm/redis)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinnycrm/)
